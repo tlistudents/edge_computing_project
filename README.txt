@@ -11,3 +11,7 @@ textDetection.py
 
 Run by "python 'program_want.py'"
 
+TODO:
+- add mechanism to automatically detect failure(using UDP to send packet to server(can use internal network) to check if a program still alive)
+- find and test method for power measurement
+
